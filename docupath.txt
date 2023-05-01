@@ -1,0 +1,250 @@
+C:\Users\harji\Documents\DataSet\Documents\A 0.5V power and area efficient Laplacian Pyramid processing engine using FIFO with adaptive data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\A brief study on paddy applications with image processing and proposed architecture.pdf
+C:\Users\harji\Documents\DataSet\Documents\A case for Core-Assisted Bottleneck Acceleration in GPUs Enabling flexible data compression with assist warps.pdf
+C:\Users\harji\Documents\DataSet\Documents\A cognitively motivated word sense induction algorithm.pdf
+C:\Users\harji\Documents\DataSet\Documents\A comprehensive analysis of using semantic information in text categorization.pdf
+C:\Users\harji\Documents\DataSet\Documents\A data compression application for wireless sensor networks using LTC algorithm.pdf
+C:\Users\harji\Documents\DataSet\Documents\A data compression scheme for reliable data storage in non-volatile memories.pdf
+C:\Users\harji\Documents\DataSet\Documents\A GPU-Based Processing Chain for Linearly Unmixing Hyperspectral Images.pdf
+C:\Users\harji\Documents\DataSet\Documents\A Guided Tour of Selected Image Processing and Analysis Methods for Fluorescence and Electron Microscopy.pdf
+C:\Users\harji\Documents\DataSet\Documents\A Hierarchical Distributed Processing Framework for Big Image Data.pdf
+C:\Users\harji\Documents\DataSet\Documents\A low-energy ASIP with flexible exponential Golomb codec for lossless data compression toward artificial vision systems.pdf
+C:\Users\harji\Documents\DataSet\Documents\A multi-stage data compression and transmission method for bulk data in low speed network.pdf
+C:\Users\harji\Documents\DataSet\Documents\A Natural-Scene Gradient Distribution Prior and its Application in Light-Microscopy Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\A New Automatic Testing System Based on Image Processing and Microprobes for IC-Testing.pdf
+C:\Users\harji\Documents\DataSet\Documents\A New Experimental Approach Using Image Processing-Based Tracking for an Efficient Fault Diagnosis in Pantograph-Catenary Systems.pdf
+C:\Users\harji\Documents\DataSet\Documents\A new method for solving context ambiguities using field association knowledge.pdf
+C:\Users\harji\Documents\DataSet\Documents\A nonparametric neural signal processor for online data compression and power management.pdf
+C:\Users\harji\Documents\DataSet\Documents\A Novel Fractional-Order Differentiation Model for Low-Dose CT Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\A Novel Method Based on Digital Image Processing Technique and Finite Element Method for Rapidly Modeling Optical Properties of Actual Microstructured Optical Fibers.pdf
+C:\Users\harji\Documents\DataSet\Documents\A novel shape and boundary extraction image processing technique for detecting the breast abnormalities using digital mammogram - labview implementation.pdf
+C:\Users\harji\Documents\DataSet\Documents\A preliminary study on semi-automatic construction of sense tagged corpus with Wordnet senses using semantic vector.pdf
+C:\Users\harji\Documents\DataSet\Documents\A rule-based information extraction system for human-readable semi-structured scientific documents.pdf
+C:\Users\harji\Documents\DataSet\Documents\A SAR imaging technique for the target of complex azimuth envelope based on information extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\A semantic-based text classification system.pdf
+C:\Users\harji\Documents\DataSet\Documents\A smart phone image processing application for plant disease diagnosis.pdf
+C:\Users\harji\Documents\DataSet\Documents\A software demonstrator for cognitive image processing using the Associative Memory chip.pdf
+C:\Users\harji\Documents\DataSet\Documents\A survey of temporal information extraction and language independent features.pdf
+C:\Users\harji\Documents\DataSet\Documents\A system for semantic information extraction from mixed soundtracks deploying MARSYAS framework.pdf
+C:\Users\harji\Documents\DataSet\Documents\A systematic approach to automate spiddos information extraction for on-web GP system.pdf
+C:\Users\harji\Documents\DataSet\Documents\A Unified Geometric Model for Virtual Slide Image Processing and Classification.pdf
+C:\Users\harji\Documents\DataSet\Documents\A webpage information extraction method based on game theory.pdf
+C:\Users\harji\Documents\DataSet\Documents\Acceleration of ultrasonic data compression using OpenCL on GPU.pdf
+C:\Users\harji\Documents\DataSet\Documents\Acquisition of Generic Problem Solving Knowledge through Information Extraction and Pattern Mining.pdf
+C:\Users\harji\Documents\DataSet\Documents\Active Learning With Sampling by Uncertainty and Density for Data Annotations.pdf
+C:\Users\harji\Documents\DataSet\Documents\Adaptive information extraction of disaster information from Twitter.pdf
+C:\Users\harji\Documents\DataSet\Documents\Adaptive processing of image using DWT and FFT OFDM in AWGN and Rayleigh channel.pdf
+C:\Users\harji\Documents\DataSet\Documents\Adaptive Sensor Data Compression in IoT systems Sensor data analytics based approach.pdf
+C:\Users\harji\Documents\DataSet\Documents\Algorithm Analysis and System Implementation of Advanced Facial Information Extraction and Face Recognition under Wireless Networks.pdf
+C:\Users\harji\Documents\DataSet\Documents\Algorithmic Enhancements to Big Data Computing Frameworks for Medical Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\An alternative algorithm for wave information extraction from X-band nautical radar images.pdf
+C:\Users\harji\Documents\DataSet\Documents\An alternative voltage and frequency monitoring scheme for SCADA based communication in power system using data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\An automated semantic annotation based-on Wordnet ontology.pdf
+C:\Users\harji\Documents\DataSet\Documents\An automated stock recommendation system from stock investment research using domain specific information extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\An automatic solution of accessible information extraction from CityGMLLoD4 files.pdf
+C:\Users\harji\Documents\DataSet\Documents\An effective real-time fingertip positioning system based on gradient information extraction from frame image sequences.pdf
+C:\Users\harji\Documents\DataSet\Documents\An Enhanced Bag-of-Visual Word Vector Space Model to Represent Visual Content in Athletics Images.pdf
+C:\Users\harji\Documents\DataSet\Documents\An image processing technique combined with Real time data acquisition to identify the posture imbalance in normal subjects.pdf
+C:\Users\harji\Documents\DataSet\Documents\An implementation of energy efficient data compression & security mechanism in clustered wireless sensor network.pdf
+C:\Users\harji\Documents\DataSet\Documents\An Improved Ontology-Based Web Information Extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\An information extraction framework for legal documents A case study of Thai Supreme Court verdicts.pdf
+C:\Users\harji\Documents\DataSet\Documents\An information extraction system for protein function prediction.pdf
+C:\Users\harji\Documents\DataSet\Documents\An Information-Extraction Approach to Speech Processing Analysis, Detection, Verification, and Recognition.pdf
+C:\Users\harji\Documents\DataSet\Documents\An innovative practice in a graduate course combining startups evaluation and image processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\An intelligent personalized traffic information extraction system for road traffic safety.pdf
+C:\Users\harji\Documents\DataSet\Documents\An intelligent system for information extraction from relational database using HMM.pdf
+C:\Users\harji\Documents\DataSet\Documents\An interpretation of sentiment analysis for enrichment of Business Intelligence.pdf
+C:\Users\harji\Documents\DataSet\Documents\An IR-Based Approach Utilizing Query Expansion for Plagiarism Detection in MEDLINE.pdf
+C:\Users\harji\Documents\DataSet\Documents\An Ontology-Based Information Extraction System for bridging the configuration gap in hybrid SDN environments.pdf
+C:\Users\harji\Documents\DataSet\Documents\Application of a real-time data compression and adapted protocol technique for WAMS.pdf
+C:\Users\harji\Documents\DataSet\Documents\Application of discrete wavelet transform in thermal infrared image processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Application of Image Classification Technology in Mangrove Information Extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\Application of Internet Technology and Web Information Extraction Wrapper Based on DOM for Agricultural Data Acquisition.pdf
+C:\Users\harji\Documents\DataSet\Documents\Assessment of quality of rice grain using optical and image processing technique.pdf
+C:\Users\harji\Documents\DataSet\Documents\Automated Extraction Information System from HUDs Images Using ANN.pdf
+C:\Users\harji\Documents\DataSet\Documents\Automated information extraction from free-text EEG reports.pdf
+C:\Users\harji\Documents\DataSet\Documents\Automated Road Information Extraction From Mobile Laser Scanning Data.pdf
+C:\Users\harji\Documents\DataSet\Documents\Automatic and Adaptive Clusters for Information Extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\Automatic Bug Assignment Using Information Extraction Methods.pdf
+C:\Users\harji\Documents\DataSet\Documents\Automatic building information extraction by modified volumetric shadow analysis from high resolution multispectral data.pdf
+C:\Users\harji\Documents\DataSet\Documents\Automatic information extraction from heatmaps.pdf
+C:\Users\harji\Documents\DataSet\Documents\Autonomous walking stick for the blind using echolocation and image processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\BioHCDP A Hybrid Constituency-Dependency Parser for Biological NLP information extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\Calculating Word Sense Probability Distributions for Semantic Web Applications.pdf
+C:\Users\harji\Documents\DataSet\Documents\Characteristic information extraction and developing process recognizing method of surface discharge in oil immersed paper insulation.pdf
+C:\Users\harji\Documents\DataSet\Documents\Cloud Engineering Principles and Technology Enablers for Medical Image Processing-as-a-Service.pdf
+C:\Users\harji\Documents\DataSet\Documents\Color space transformation and object oriented based information extraction of aerial images.pdf
+C:\Users\harji\Documents\DataSet\Documents\Combining Neural Networks and Statistics for Chinese Word Sense Discrimination.pdf
+C:\Users\harji\Documents\DataSet\Documents\Comparison of wavelet thresholding methods for industrial data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Computational complexity of image processing algorithms for an intelligent mobile enabled tongue diagnosis scheme.pdf
+C:\Users\harji\Documents\DataSet\Documents\Computer-Aided Diagnosis Software for Hypertensive Risk Determination Through Fundus Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Construction of Myanmar WordNet lexical database.pdf
+C:\Users\harji\Documents\DataSet\Documents\Construction of Scholarly n-Gram from Huge Text Data.pdf
+C:\Users\harji\Documents\DataSet\Documents\Content Information Extraction of Theme Web Pages Based on Tag Information.pdf
+C:\Users\harji\Documents\DataSet\Documents\Crop information extraction in China based on NDVI characteristic curve.pdf
+C:\Users\harji\Documents\DataSet\Documents\Data Compression Cost Optimization.pdf
+C:\Users\harji\Documents\DataSet\Documents\Data Compression of Digital-Ink with Pen-Slips Using Multi-level L1 Smoothing Splines.pdf
+C:\Users\harji\Documents\DataSet\Documents\Data compression of excitatory postsynaptic potentials.pdf
+C:\Users\harji\Documents\DataSet\Documents\DAVE Detecting Agitated Vocal Events.pdf
+C:\Users\harji\Documents\DataSet\Documents\Decision Guidance for Optimizing Web Data Quality - A Recommendation Model for Completing Information Extraction Results.pdf
+C:\Users\harji\Documents\DataSet\Documents\Detection and counting of pothole using image processing techniques.pdf
+C:\Users\harji\Documents\DataSet\Documents\Development and implementation of image processing technique for laser-based 3D scanner.pdf
+C:\Users\harji\Documents\DataSet\Documents\Disambiguating sentiment ambiguous adjectives.pdf
+C:\Users\harji\Documents\DataSet\Documents\Disambiguation for polyphones of Chinese based on two-pass unified approach.pdf
+C:\Users\harji\Documents\DataSet\Documents\Distance dependent Chinese restaurant process for VHR satellite image oversegmentation.pdf
+C:\Users\harji\Documents\DataSet\Documents\Distributed DCT based data compression in clustered wireless sensor networks.pdf
+C:\Users\harji\Documents\DataSet\Documents\Document Information Extraction and Its Evaluation Based on Client's Relevance.pdf
+C:\Users\harji\Documents\DataSet\Documents\Drug-related crime information extraction and analysis.pdf
+C:\Users\harji\Documents\DataSet\Documents\ECG data compression for a portable ECG recorder and transmitter.pdf
+C:\Users\harji\Documents\DataSet\Documents\Efficient and anti-interference method of synchronising information extraction for cideo leaking signal.pdf
+C:\Users\harji\Documents\DataSet\Documents\Electrocardiogram data compression using adaptive bit encoding of the discrete Fourier transforms coefficients.pdf
+C:\Users\harji\Documents\DataSet\Documents\End-View Image Processing Based Angle Alignment Techniques for Specialty Optical Fibers.pdf
+C:\Users\harji\Documents\DataSet\Documents\Enhanced LZMA and BZIP2 for improved energy data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Error Analysis in an Automated Narrative Information Extraction Pipeline.pdf
+C:\Users\harji\Documents\DataSet\Documents\Evaluation on geospatial information extraction and retrieval Mining thematic maps from web source.pdf
+C:\Users\harji\Documents\DataSet\Documents\Event information extraction from Indonesian tweets using conditional random field.pdf
+C:\Users\harji\Documents\DataSet\Documents\Exploiting Disambiguation and Discrimination in Information Retrieval Systems.pdf
+C:\Users\harji\Documents\DataSet\Documents\Exploring multiple features for sense prediction of Chinese unknown words.pdf
+C:\Users\harji\Documents\DataSet\Documents\Extending IAMCTD using data fusion and lossless data compression for UWSN.pdf
+C:\Users\harji\Documents\DataSet\Documents\Extending Spark Analytics through Tika-Based Information Extraction and Retrieval.pdf
+C:\Users\harji\Documents\DataSet\Documents\Extraction of Energy Information From Analog Meters Using Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Failure Recovery Cost Reduction of Disk Arrays Using Adaptive Erasure Correction Coding and Data Compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Feature level sentiment analysis on movie reviews.pdf
+C:\Users\harji\Documents\DataSet\Documents\Floating raft aquaculture information automatic extraction based on high resolution SAR images.pdf
+C:\Users\harji\Documents\DataSet\Documents\Fractional-Order Euler-Lagrange Equation for Fractional-Order Variational Method A Necessary Condition for Fractional-Order Fixed Boundary Optimization Problems in Signal Processing and Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Framework to extract context vectors from unstructured data using big data analytics.pdf
+C:\Users\harji\Documents\DataSet\Documents\From text to XML by structural information extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\From tweet to graph Social network analysis for semantic information extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\FuzzyCAT A lightweight Adaptive Transform for sensor data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Ge(o)Lo(cator) Geographic Information Extraction from Unstructured Text Data and Web Documents.pdf
+C:\Users\harji\Documents\DataSet\Documents\Generalized Context Modeling With Multi-Directional Structuring and MDL-Based Model Selection for Heterogeneous Data Compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Generating Rules with Common Knowledge A Framework for Sentence Information Extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\Generating word clusters by graph clustering based on hearst patterns.pdf
+C:\Users\harji\Documents\DataSet\Documents\Graph-Based Methods for Natural Language Processing and Understanding—A Survey and Analysis.pdf
+C:\Users\harji\Documents\DataSet\Documents\Grapheme-to-Phoneme Conversion of Arabic Numeral Expressions for Embedded TTS Systems.pdf
+C:\Users\harji\Documents\DataSet\Documents\Growing neural gas for information extraction in gesture recognition and reproduction of robot partners.pdf
+C:\Users\harji\Documents\DataSet\Documents\Handwritten Information Extraction from Historical Census Documents.pdf
+C:\Users\harji\Documents\DataSet\Documents\Haptic data compression based on delta-sigma modulator in quantized scaling-bilateral control.pdf
+C:\Users\harji\Documents\DataSet\Documents\Hardware and software architectures for computationally efficient three-dimensional ultrasonic data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Image processing algorithm for droplet measurement after impingement.pdf
+C:\Users\harji\Documents\DataSet\Documents\Image processing based detection - classification of blood group using color images.pdf
+C:\Users\harji\Documents\DataSet\Documents\Image Processing With Color Compensation Using LCD Display for Color Vision Deficiency.pdf
+C:\Users\harji\Documents\DataSet\Documents\Image watermarking using data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Implicit Information Extraction from Clinical Notes.pdf
+C:\Users\harji\Documents\DataSet\Documents\Improving Persian POS tagging using the maximum entropy model.pdf
+C:\Users\harji\Documents\DataSet\Documents\Improving the Understanding between Control Tower Operator and Pilot Using Semantic Techniques — A New Approach.pdf
+C:\Users\harji\Documents\DataSet\Documents\Improving Verb Sense Disambiguation with Automatically Retrieved Semantic Knowledge.pdf
+C:\Users\harji\Documents\DataSet\Documents\Investigation on large batches of UAV image data processing technology based on acceleration matching method.pdf
+C:\Users\harji\Documents\DataSet\Documents\IoT Data Compression Sensor-Agnostic Approach.pdf
+C:\Users\harji\Documents\DataSet\Documents\Isometric Test Data Compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Issues in parsing for Machine Aided Translation from English to Hindi.pdf
+C:\Users\harji\Documents\DataSet\Documents\JICE Joint data compression and encryption for wireless energy auditing networks.pdf
+C:\Users\harji\Documents\DataSet\Documents\K-Means Clustering-Based Data Compression Scheme for Wireless Imaging Sensor Networks.pdf
+C:\Users\harji\Documents\DataSet\Documents\KDI A wireless ECoG recording platform with impedance spectroscopy, electrical stimulation and real-time, lossless data compression.pdf
+C:\Users\harji\Documents\DataSet\Documents\Keyword Extraction Based on Lexical Chains and Word Co-occurrence for Chinese News Web Pages.pdf
+C:\Users\harji\Documents\DataSet\Documents\Linking Documents to Encyclopedic Knowledge.pdf
+C:\Users\harji\Documents\DataSet\Documents\Local recovery in data compression for general sources.pdf
+C:\Users\harji\Documents\DataSet\Documents\Lossless Data Compression via Substring Enumeration for k-th Order Markov Sources with a Finite Alphabet.pdf
+C:\Users\harji\Documents\DataSet\Documents\Measuring context-meaning for open class words in Hindi language.pdf
+C:\Users\harji\Documents\DataSet\Documents\Medical image processing A review.pdf
+C:\Users\harji\Documents\DataSet\Documents\Method of data compression for traffic monitoring.pdf
+C:\Users\harji\Documents\DataSet\Documents\Monitoring Kidney Microanatomy Changes During Ischemia-Reperfusion Process Using Texture Analysis of OCT Images.pdf
+C:\Users\harji\Documents\DataSet\Documents\Multi-Zone Digital Crosstalk Reduction by Image Processing in 3D Display.pdf
+C:\Users\harji\Documents\DataSet\Documents\Myanmar to English verb translation disambiguation approach based on Naïve Bayesian classifier.pdf
+C:\Users\harji\Documents\DataSet\Documents\NGS read data compression using parallel computing algorithm.pdf
+C:\Users\harji\Documents\DataSet\Documents\On EEG lossy data compression for data-intensive neurological mobile health solutions.pdf
+C:\Users\harji\Documents\DataSet\Documents\On-the-fly range-velocity radar data compression exploring Doppler spectrum redundancy.pdf
+C:\Users\harji\Documents\DataSet\Documents\Onboard SPIHT-based and textural-dependent data compression of one-look SAR images.pdf
+C:\Users\harji\Documents\DataSet\Documents\One Sense per N-gram.pdf
+C:\Users\harji\Documents\DataSet\Documents\Ontological based webpage classification.pdf
+C:\Users\harji\Documents\DataSet\Documents\Ontology clarification by using semantic disambiguation.pdf
+C:\Users\harji\Documents\DataSet\Documents\Optimal character arrangement for ambiguous keyboards using a PSO-based algorithm.pdf
+C:\Users\harji\Documents\DataSet\Documents\PCB Reverse Engineering Using Nondestructive X-ray Tomography and Advanced Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Performance evaluation of mobile front-haul employing ethernet- based TDM-PON with IQ data compression Invited.pdf
+C:\Users\harji\Documents\DataSet\Documents\Plant diseases detection using image processing techniques.pdf
+C:\Users\harji\Documents\DataSet\Documents\POC-NLW Template Based Tagging Method for Chinese Word Segmentation.pdf
+C:\Users\harji\Documents\DataSet\Documents\Power analysis of a lossless data compression technique for wireless wearable biometric devices.pdf
+C:\Users\harji\Documents\DataSet\Documents\Predictive Principal Component Analysis as a Data Compression Core in a Simulation Data Management System.pdf
+C:\Users\harji\Documents\DataSet\Documents\Processing and 3D printing of Gradient Heterogeneous Bio-Model Based on Computer Tomography Images.pdf
+C:\Users\harji\Documents\DataSet\Documents\Processing Sliding Mosaic Mode Data With Modified Full-Aperture Imaging Algorithm Integrating Scalloping Correction.pdf
+C:\Users\harji\Documents\DataSet\Documents\Quadtree-based lightweight data compression for large-scale geospatial rasters on multi-core CPUs.pdf
+C:\Users\harji\Documents\DataSet\Documents\Query Expansion for UMLS Metathesaurus Disambiguation Based on Automatic Corpus Extraction.pdf
+C:\Users\harji\Documents\DataSet\Documents\Query-Based Ontology Approach for Semantic Search.pdf
+C:\Users\harji\Documents\DataSet\Documents\Real time two way communication approach for hearing impaired and dumb person based on image processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Real-time channel data compression for improved software beamforming using microbeamforming with error compensation.pdf
+C:\Users\harji\Documents\DataSet\Documents\Real-Time Semantic Search Using Approximate Methodology for Large-Scale Storage Systems.pdf
+C:\Users\harji\Documents\DataSet\Documents\Recent Advances and Challenges of Semantic Image Video Search.pdf
+C:\Users\harji\Documents\DataSet\Documents\Recognizing matured cinnamon tree using image processing techniques.pdf
+C:\Users\harji\Documents\DataSet\Documents\Recurrently Decomposable 2-D Convolvers for FPGA-Based Digital Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Relational WordNet model for semantic search in Holy Quran.pdf
+C:\Users\harji\Documents\DataSet\Documents\Research and Analysis of Semantic Search Technology Based on Knowledge Graph.pdf
+C:\Users\harji\Documents\DataSet\Documents\Research and Design of E-commerce Semantic Search.pdf
+C:\Users\harji\Documents\DataSet\Documents\Research of semantic search algorithm based on Cloud computing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Research on Improving Performance of Semantic Search in UDDI.pdf
+C:\Users\harji\Documents\DataSet\Documents\Rewriting Turkish texts written in English alphabet using Turkish alphabet.pdf
+C:\Users\harji\Documents\DataSet\Documents\Rule Based Part of Speech Tagging of Sindhi Language.pdf
+C:\Users\harji\Documents\DataSet\Documents\S2P2P Semantic Search in Unstructured Peer-to-Peer Networks.pdf
+C:\Users\harji\Documents\DataSet\Documents\S3C An architecture for space-efficient semantic search over encrypted data in the cloud.pdf
+C:\Users\harji\Documents\DataSet\Documents\Satellite image processing on parallel computing A technical review.pdf
+C:\Users\harji\Documents\DataSet\Documents\Scalable Semantic Search with Hybrid Concept Index over Structure Peer-to-Peer Network.pdf
+C:\Users\harji\Documents\DataSet\Documents\Scaling concurrency of personalized Semantic search over Large RDF data.pdf
+C:\Users\harji\Documents\DataSet\Documents\SDWS Semantic Search for Deep Web Data.pdf
+C:\Users\harji\Documents\DataSet\Documents\Searching for semantic person queries using channel representations.pdf
+C:\Users\harji\Documents\DataSet\Documents\Secure DNA data compression using algebraic curves.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic association search and rank method based on spreading activation for the Semantic Web.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Computing, Cloud Computing, and Semantic Search Engine.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic disambiguation in a social information discovery system.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Entity Search Diversification.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic flooding Search over semantic links.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic form-based guided search system.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Full-Text Search with ESTER Scalable, Easy, Fast.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Key for Meaning Based Searching.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic overlay network for peer-to-peer hybrid information search and retrieval.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic report search engine — Questor.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Search and NLP-Based Diagnostics.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Search and Preferred Search Survey in Cloud Computing Environment.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Search Based on SVO Constructions in Chinese.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search engine and its strategies with IAN encoder.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search for cloud providers with security conformance to cloud controls matrix.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search for context-aware learning.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search for software architecture knowledge A proposal for virtual communities environment.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search for structured Web finder.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search in digital library semantic technology.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search integration to climate data.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Search Meets the Web.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search of learning services in a grid-based collaborative system.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Search over DICOM Repositories.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search over encrypted data.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search processing in natural language interface.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Search Technology Based on Cloud Computing Research.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search using a similarity graph.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic search with rule reasoning for scholarship information search.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic Search-Based Genetic Programming and the Effect of Intron Deletion.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic TagPrint - Tagging and Indexing Content for Semantic Search and Content Management.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic WEB-Search Developing by Problem-Oriented Ontology Means.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semantic-driven Management and Search for Resources in Research Community.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semi-automated Ontology Creation for Semantic Search in Business Process Exploration.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semi-Automatic Annotation System for OWL-Based Semantic Search.pdf
+C:\Users\harji\Documents\DataSet\Documents\Semi-supervised Chinese contextual polarity classification with automatic feature selection.pdf
+C:\Users\harji\Documents\DataSet\Documents\Sense Annotated Hindi Corpus.pdf
+C:\Users\harji\Documents\DataSet\Documents\Service-Based Semantic Search in P2P Systems.pdf
+C:\Users\harji\Documents\DataSet\Documents\SKMT A Semantic Knowledge Management Tool for Content Tagging, Search and Management.pdf
+C:\Users\harji\Documents\DataSet\Documents\Smart cloud search services verifiable keyword-based semantic search over encrypted cloud data.pdf
+C:\Users\harji\Documents\DataSet\Documents\Spatio-Temporal Bias-Tunable Readout Circuit for On-Chip Intelligent Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Structural Variance Based Error-Tolerability Test Method for Image Processing Applications.pdf
+C:\Users\harji\Documents\DataSet\Documents\Tag Sense Disambiguation for Clarifying the Vocabulary of Social Tags.pdf
+C:\Users\harji\Documents\DataSet\Documents\TaxoLearn A Semantic Approach to Domain Taxonomy Learning.pdf
+C:\Users\harji\Documents\DataSet\Documents\Teaching Image Processing in Engineering Using Python.pdf
+C:\Users\harji\Documents\DataSet\Documents\Thermal-Aware Test Data Compression Using Dictionary Based Coding.pdf
+C:\Users\harji\Documents\DataSet\Documents\Towards an efficient high-level modeling of heterogeneous image processing systems.pdf
+C:\Users\harji\Documents\DataSet\Documents\Traffic prediction, data compression, abnormal data detection and missing data imputation An integrated study based on the decomposition of traffic time series.pdf
+C:\Users\harji\Documents\DataSet\Documents\Trigger-Wave Asynchronous Cellular Logic Array for Fast Binary Image Processing.pdf
+C:\Users\harji\Documents\DataSet\Documents\Unsupervised Translation Disambiguation Based on Maximum Web Bilingual Relatedness Web as Lexicon.pdf
+C:\Users\harji\Documents\DataSet\Documents\Using triangulation to identify word senses.pdf
+C:\Users\harji\Documents\DataSet\Documents\Variable frame rate and length analysis for data compression in distributed speech recognition.pdf
+C:\Users\harji\Documents\DataSet\Documents\Visual Hull-Based Geometric Data Compression of a 3-D Object.pdf
+C:\Users\harji\Documents\DataSet\Documents\Wavelet-Based Classification of Hyperspectral Images Using Extended Morphological Profiles on Graphics Processing Units.pdf
+C:\Users\harji\Documents\DataSet\Documents\Word Sense Determination using WordNet and Sense Co-occurrence.pdf
+C:\Users\harji\Documents\DataSet\Documents\Word sentiment polarity disambiguation based on opinion level context.pdf
+C:\Users\harji\Documents\DataSet\Documents\Word-Meaning Selection in Multiprocess Language Understanding Programs.pdf
+C:\Users\harji\Documents\DataSet\Documents\Work in progress Data compression of wireless sensor network employing Kalman filter and QC-LDPC codes.pdf
